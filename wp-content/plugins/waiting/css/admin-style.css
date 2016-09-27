@@ -1,0 +1,283 @@
+#pbc-wrapper, .wpb-widget-wrapper, #pbc-wrapper *, .wpb-widget-wrapper *, #pbc-live, #pbc-live *{
+	box-sizing:border-box !important;
+}
+
+#pbc-wrapper{width:100%;}
+
+#wpb-top{margin:1.5em 0 2em 0;}
+#waiting-title{margin:0 0 0 10px;padding:0;line-height:35px;font-size:2em;}
+
+.pbc-form-error{
+	margin-bottom:.5em;
+	font-size:1.5em;
+	color:red;
+}
+
+#pbc-editor{
+	padding:1em;
+	background:#fff;
+	width:85%;
+	-webkit-user-select:none;
+}
+
+.pbc-live-sticky{
+	bottom:0;
+	position:fixed;
+	z-index:99999999999;
+}
+
+#pbc-live.pbc-inline-down{
+	background:rgba(255, 255, 255, .85);
+	border:1px solid #aaa;
+}
+
+#pbc-live.pbc-inline-down .pbc-shell{margin:1em;}
+
+.pbc-row{
+	padding:1em;
+}
+
+.pbc-row-field .pbc-row{
+	padding-left: 0;
+}
+
+.pbc-row:not(:last-child){
+	border-bottom:1px solid #ddd;
+	margin-bottom:1em;
+}
+
+.pbc-row-label{
+	width:15%;
+	font-weight:bold;
+}
+
+.pbc-field label{
+	display:inline-block;
+}
+
+.pbc-field, .pbc-field[data-cd=insta] label{
+	margin-right:1em;
+}
+
+#pbc-styles .pbc-row .pbc-field{
+	width:45%;
+	margin:0 2% 2% 0;
+}
+
+.wp-color-result{
+	overflow:hidden;
+}
+
+#pbc-styles, #pbc-new-countdown{
+	margin-top:1em;
+}
+
+#pbc-feedback{
+	margin-top:2em;
+	padding-top:1em;
+	border-top:1px solid #ddd;
+}
+
+#pbc-styles-field, .pbc-row-field{
+	max-width:81%;
+	min-width:80%;
+}
+
+textarea.wpb-raw{width:100%;margin-top:1em;}
+
+#pbc-points-toggle{
+	margin-bottom:.5em;
+}
+
+.pbc-points-shell{
+	width:60%;
+}
+
+.pbc-points-shell span{
+	font-weight:bold;
+}
+
+.pbc-points{
+	width:115px;
+	height:115px;
+	background:#000;
+}
+
+.pbc-point{
+	width:15px;
+	height:15px;
+	background:red;
+	cursor:pointer;
+}
+
+.pbc-point:hover, .pbc-active-point{
+	border:2.5px solid #fff;
+}
+
+#pbc-2d-style-types{
+	margin:.5em 0;
+	padding-bottom:.5em;
+	border-bottom:1px solid #eee;
+}
+
+#pbc-2d-style-fields .wpb-inline{
+	margin-right:2em;
+}
+
+
+#pbc-onfinish-field{
+	width:70%;
+}
+
+#pbc-onfinish-field *{
+	-webkit-transition:all 300ms;
+	-moz-transition:all 300ms;
+	-ms-transition:all 300ms;
+	-o-transition:all 300ms;
+	transition:all 300ms;
+}
+
+.pbc-option{
+	border:1px solid #ddd;
+	margin-bottom:.5em;
+	width:100%;
+}
+
+.pbc-option-active.pbc-option{
+	border:1px solid #2ea2cc;
+}
+
+.pbc-option:hover{
+	border:1px solid #2ea2cc;
+}
+
+.pbc-option-label{
+	background:#ddd;
+	padding:.35em;
+	cursor:pointer;
+}
+
+.pbc-option-active .pbc-option-label{
+	background:#2ea2cc;
+	color:#fff;
+}
+
+.pbc-option-active .pbc-option-field{
+	display:block;
+}
+
+.pbc-option-field{
+	display:none;
+}
+
+.pbc-option[data-name=redirect] input, .pbc-option-field textarea{
+	width:100%;
+}
+
+
+/** Demo **/
+
+#pbc-demos{
+	margin-top:2em;
+}
+
+.pbc-demo {
+	display:inline-block;
+	width:40%;
+	margin:0 1em 1em 0;
+	padding:1em;
+	background:#fff;
+	border: 2px solid #aaa;
+	cursor:pointer;
+}
+
+.pbc-demo:hover{
+	border: 2px solid #000;
+}
+
+
+
+/**
+
+  Ranger
+
+**/
+
+.wpb-number-slider, .wpb-number-slider * {display:inline-block;}
+
+.wpb-num-slider-wrapper{
+	position:relative;
+	height:15px;
+	width:150px;
+}
+
+.wpb-num-slider-bg{
+	background:#000;
+	position:absolute;
+	width:100%;
+	height:5px;
+	top:2.5px;
+}
+
+.wpb-num-slider{
+	position:absolute;
+	height:10px;
+	width:30px;
+	background:#000;
+	top:0px;
+	cursor:move;
+}
+
+.wpb-number-slider input{
+	width:3em;
+}
+
+
+
+#pbc-do-upgrade{
+	padding:.5em;
+	background:#fff;
+	margin-top:1.25em;
+}
+
+#pbc-do-upgrade li{
+    list-style-type: square;
+    margin-left: 2em;
+}
+.pbc-front-form{
+	margin-top:1.5em;
+	background:#fff;
+	padding:.25em 1.25em;
+}
+
+#pbc-lang-form .pbc-field{
+	width:33%;
+}
+
+#pbc-lang-form .pbc-field input{
+	margin-left:1em;
+}
+
+.pbc-front-form-inputs{
+	-webkit-transition:height 500ms;
+	-moz-transition:height 500ms;
+	-ms-transition:height 500ms;
+	-o-transition:height 500ms;
+	transition:height 500ms;
+	overflow:hidden;
+	padding:0 0 1em 0;
+}
+
+.pbc-front-form-inputs.wpb-zero{
+	padding:0;
+}
+
+body .pbc-front-form-inputs .button{
+	margin-top:.5em !important;
+}
+
+
+#pbc-license-form input{
+	width:60%;
+	margin-bottom:.5em;
+}

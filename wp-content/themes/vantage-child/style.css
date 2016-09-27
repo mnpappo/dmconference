@@ -1,0 +1,45 @@
+/*
+Theme Name: Vantage Child
+Author: SiteOrigin
+Author URI: http://siteorigin.com/
+Theme URI: http://siteorigin.com/theme/vantage
+Description: Vantage Child Theme
+Version: 1.0.0
+Template: vantage
+Text Domain: vantage
+Domain Path: /languages/
+*/
+
+/* =Theme customization starts here
+-------------------------------------------------------------- */
+
+/**********************
+**** Header ***********
+*/
+#masthead .hgroup .logo img {
+    vertical-align: bottom;
+    max-width: 360px;
+    height: auto;
+}
+
+.contact-map {
+  padding-top: 0px !important;
+  padding-bottom: 0px !important;
+}
+
+#main {
+    padding-bottom: 0px;
+}
+/*To change most of the body text font size*/
+p {font-size: 15px!important;}
+
+/*To change the menu text font size*/
+.main-navigation ul li {
+  font-size: 16px;
+  font-weight: normal;
+}
+
+.main-navigation ul ul a {
+    width: 250px;
+    padding: 15px 20px;
+}

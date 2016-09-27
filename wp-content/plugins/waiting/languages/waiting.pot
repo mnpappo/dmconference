@@ -1,0 +1,382 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Waiting 0.1\n"
+"POT-Creation-Date: 2015-05-27 13:11+0545\n"
+"PO-Revision-Date: 2015-05-27 13:11+0545\n"
+"Last-Translator: Nub Bt. <support@plugin.builders>\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ../\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: templates/pro-templates.php:3
+msgid "Offer mode"
+msgstr ""
+
+#: templates/pro-templates.php:7
+msgid "Enable"
+msgstr ""
+
+#: templates/pro-templates.php:13
+msgid "Style"
+msgstr ""
+
+#: templates/pro-templates.php:17 templates/pro-templates.php:63
+#: templates/templates.php:182 templates/templates.php:211
+#: templates/templates.php:264
+msgid "Background"
+msgstr ""
+
+#: templates/pro-templates.php:22 templates/templates.php:276
+msgid "Top"
+msgstr ""
+
+#: templates/pro-templates.php:27
+msgid "On left"
+msgstr ""
+
+#: templates/pro-templates.php:33 templates/templates.php:53
+#: templates/templates.php:132
+msgid "Countdown"
+msgstr ""
+
+#: templates/pro-templates.php:37 templates/templates.php:221
+msgid "Width"
+msgstr ""
+
+#: templates/pro-templates.php:43
+msgid "Offer"
+msgstr ""
+
+#: templates/pro-templates.php:59
+msgid "Trace"
+msgstr ""
+
+#: templates/pro-templates.php:68 templates/templates.php:206
+#: templates/templates.php:259
+msgid "Color"
+msgstr ""
+
+#: templates/pro-templates.php:73
+msgid "Thickness"
+msgstr ""
+
+#: templates/pro-templates.php:78
+msgid "Fill"
+msgstr ""
+
+#: templates/pro-templates.php:87
+msgid "User"
+msgstr ""
+
+#: templates/pro-templates.php:94
+msgid "YouTube Video"
+msgstr ""
+
+#: templates/pro-templates.php:96
+msgid "URL or Video ID"
+msgstr ""
+
+#: templates/pro-templates.php:97
+msgid "Lightbox"
+msgstr ""
+
+#: templates/pro-templates.php:101
+msgid "Replace with HTML"
+msgstr ""
+
+#: templates/pro-templates.php:103
+msgid "HTML to replace countdown"
+msgstr ""
+
+#: templates/pro-templates.php:110
+msgid "License key"
+msgstr ""
+
+#: templates/pro-templates.php:113 templates/templates.php:152
+#: templates/templates.php:305
+msgid "Save"
+msgstr ""
+
+#: templates/pro-templates.php:114
+msgid "License key is provided on your purchase receipt."
+msgstr ""
+
+#: templates/pro-templates.php:120
+msgid "Cookie"
+msgstr ""
+
+#: templates/pro-templates.php:121
+msgid "Expires in"
+msgstr ""
+
+#: templates/pro-templates.php:121 waiting.php:330
+msgid "Days"
+msgstr ""
+
+#: templates/pro-templates.php:125
+msgid "Directions"
+msgstr ""
+
+#: templates/pro-templates.php:129
+msgid "From"
+msgstr ""
+
+#: templates/pro-templates.php:133 templates/templates.php:7
+#: templates/templates.php:53
+msgid "To"
+msgstr ""
+
+#: templates/pro-templates.php:140 templates/pro-templates.php:149
+msgid "Slide"
+msgstr ""
+
+#: templates/pro-templates.php:143
+msgid "Orbit"
+msgstr ""
+
+#: templates/pro-templates.php:146
+msgid "Rotate"
+msgstr ""
+
+#: templates/pro-templates.php:149
+msgid "Zooomed"
+msgstr ""
+
+#: templates/pro-templates.php:155 templates/pro-templates.php:158
+msgid "Small"
+msgstr ""
+
+#: templates/pro-templates.php:158
+msgid "Large"
+msgstr ""
+
+#: templates/pro-templates.php:163
+msgid "Half"
+msgstr ""
+
+#: templates/pro-templates.php:166
+msgid "Full"
+msgstr ""
+
+#: templates/pro-templates.php:170
+msgid "Reverse"
+msgstr ""
+
+#: templates/templates.php:6 templates/templates.php:46 waiting.php:512
+msgid "Name"
+msgstr ""
+
+#: templates/templates.php:8
+msgid "Shortcode"
+msgstr ""
+
+#: templates/templates.php:14
+msgid "Add New"
+msgstr ""
+
+#: templates/templates.php:20
+msgid "Suggest Feature"
+msgstr ""
+
+#: templates/templates.php:21
+msgid "Report Issue"
+msgstr ""
+
+#: templates/templates.php:22
+msgid "Write a review"
+msgstr ""
+
+#: templates/templates.php:23
+msgid "Docs & Troubleshooting"
+msgstr ""
+
+#: templates/templates.php:29 waiting.php:333
+msgid "Seconds"
+msgstr ""
+
+#: templates/templates.php:48
+msgid "Must be unique"
+msgstr ""
+
+#: templates/templates.php:57
+msgid "Date"
+msgstr ""
+
+#: templates/templates.php:63
+msgid "Duration"
+msgstr ""
+
+#: templates/templates.php:72
+msgid "Timezone"
+msgstr ""
+
+#: templates/templates.php:76
+msgid "WordPress"
+msgstr ""
+
+#: templates/templates.php:80
+msgid "GMT"
+msgstr ""
+
+#: templates/templates.php:86
+msgid "Units"
+msgstr ""
+
+#: templates/templates.php:100
+msgid "Font"
+msgstr ""
+
+#: templates/templates.php:109 templates/templates.php:168
+msgid "Edit"
+msgstr ""
+
+#: templates/templates.php:110
+msgid "Toggle"
+msgstr ""
+
+#: templates/templates.php:117
+msgid "Resize"
+msgstr ""
+
+#: templates/templates.php:119
+msgid "Resize when the parent container is larger."
+msgstr ""
+
+#: templates/templates.php:126
+msgid "On Finish"
+msgstr ""
+
+#: templates/templates.php:129
+msgid "Nothing"
+msgstr ""
+
+#: templates/templates.php:132
+msgid "Hide"
+msgstr ""
+
+#: templates/templates.php:135
+msgid "Redirect"
+msgstr ""
+
+#: templates/templates.php:137
+msgid "URL"
+msgstr ""
+
+#: templates/templates.php:141
+msgid "Trigger DOM events (click, hover etc.)"
+msgstr ""
+
+#: templates/templates.php:143
+msgid "selector"
+msgstr ""
+
+#: templates/templates.php:144
+msgid "event"
+msgstr ""
+
+#: templates/templates.php:153
+msgid "Cancel"
+msgstr ""
+
+#: templates/templates.php:155
+msgid "Delete"
+msgstr ""
+
+#: templates/templates.php:160
+msgid "Some changes won't take effect in preview"
+msgstr ""
+
+#: templates/templates.php:191
+msgid "Horizontal"
+msgstr ""
+
+#: templates/templates.php:195
+msgid "Vertical"
+msgstr ""
+
+#: templates/templates.php:202
+msgid "Unit"
+msgstr ""
+
+#: templates/templates.php:216
+msgid "Height"
+msgstr ""
+
+#: templates/templates.php:227
+msgid "Font size"
+msgstr ""
+
+#: templates/templates.php:232 templates/templates.php:270
+msgid "Margin"
+msgstr ""
+
+#: templates/templates.php:232
+msgid "Right"
+msgstr ""
+
+#: templates/templates.php:238
+msgid "Rounded corners"
+msgstr ""
+
+#: templates/templates.php:244
+msgid "Hide if Zero"
+msgstr ""
+
+#: templates/templates.php:244
+msgid "except last one"
+msgstr ""
+
+#: templates/templates.php:250
+msgid "Label"
+msgstr ""
+
+#: templates/templates.php:254
+msgid "Font-size"
+msgstr ""
+
+#: templates/templates.php:282
+msgid "Show"
+msgstr ""
+
+#: templates/templates.php:298
+msgid "Quick Translation"
+msgstr ""
+
+#: templates/templates.php:314
+msgid "Saving"
+msgstr ""
+
+#: templates/templates.php:315
+msgid "Deleting"
+msgstr ""
+
+#: waiting.php:327
+msgid "Years"
+msgstr ""
+
+#: waiting.php:328
+msgid "Months"
+msgstr ""
+
+#: waiting.php:329
+msgid "Weeks"
+msgstr ""
+
+#: waiting.php:331
+msgid "Hours"
+msgstr ""
+
+#: waiting.php:332
+msgid "Minutes"
+msgstr ""
+
+#: waiting.php:507
+msgid "Title"
+msgstr ""
