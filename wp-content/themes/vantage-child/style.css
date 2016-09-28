@@ -43,3 +43,7 @@ p {font-size: 15px!important;}
     width: 250px;
     padding: 15px 20px;
 }
+
+.supports img {
+  max-height: 100px;
+}
